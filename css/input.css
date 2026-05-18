@@ -1,1 +1,14 @@
 @import "tailwindcss";
+
+@theme {
+    --color-header-col: #090b17;
+    --color-light-blue: #3b82f6;
+    --color-white-shade: #f6f6ff;
+    --color-dark-blue: #0f172a;
+    --color-green: #22c55e;
+    --color-purple: #a855f7;
+    --color-blue-shade: #152032;
+    --color-light-dark-blue: #152032;
+    --color-card-col: #202b3d;
+    --color-form-col: #324154;
+}
